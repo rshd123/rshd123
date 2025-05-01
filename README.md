@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🚀 I'm a 2nd-year B.Tech student in Computer Science, passionate about building innovative web solutions and exploring the world of Machine Learning. Currently working on projects that blend creativity with real-world impact. I also have a growing interest in IoT and enjoy experimenting with connected technologies.
+  Hi 👋 I'm Arshad, 2nd-year B.Tech student in Computer Science, passionate about building innovative web solutions and exploring the world of Machine Learning. Currently working on projects that blend creativity with real-world impact. I also have a growing interest in IoT and enjoy experimenting with connected technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadm12/) 
@@ -36,14 +36,16 @@
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=rshd123&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
-### ✍️ Random Dev Quote
+### 
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
 
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=rshd123&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
+![snake gif](https://github.com/rshd123/rshd123/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
-![snake gif](https://github.com/rshd123/rshd123/blob/output/github-snake-dark.svg)
+
