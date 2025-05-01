@@ -45,3 +45,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
+
+![snake gif](https://github.com/rshd123/rshd123/blob/output/github-snake-dark.svg)
