@@ -11,25 +11,47 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshadm1512@gmail.com) 
 
 # 💻 Tech Stack:
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
+<div align="center">
+
+  <!-- GIF Icons Row 1 -->
+  <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="75"/>
+  <img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="75"/>
+  <img src="https://colaninfotech.com/wp-content/uploads/2021/09/expressjs.gif" height="75"/>
+  <br/>
+  <img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="75"/>
+  <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="75"/>
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="75"/>
+  <br/><br/>
+
+  <!-- GIF Icons Row 2 -->
+  <img src="https://media2.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" height="75"/>
+  <img src="https://media1.giphy.com/media/C8Tij3iox3coBSqVWE/giphy.gif" height="75"/>
+  <br/>
+  <img src="https://media1.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="75"/>
+  <img src="https://media3.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" height="75"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"/>
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD"/>
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white"/>
+
+</div>
+
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=rshd123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
@@ -40,7 +62,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=rshd123&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 ### 
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height=225 />
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" atl="gif" height=300>
 
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=rshd123&limit=5&theme=radical&combine_all_yearly_contributions=true" />
