@@ -4,7 +4,7 @@
 </p>
 
 # 💫 About Me:
-  Hi 👋 I'm Arshad, 2nd-year B.Tech student in Computer Science, passionate about building innovative web solutions and exploring the world of Machine Learning. Currently working on projects that blend creativity with real-world impact. I also have a growing interest in IoT and enjoy experimenting with connected technologies.
+  Hi 👋 I'm Arshad, Pre final year B.Tech student in Computer Science, passionate about building innovative web solutions and also exploring the world of Machine Learning. Currently working on projects that blend creativity with real-world impact. I also have a growing interest in IoT and enjoy experimenting with connected technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadm12/) 
