@@ -3,8 +3,8 @@
   <img src="Keep calm and code on !.png" alt="KeepCalmandCodeOn" width="100%"  />
 </p>
 
-# 💫 About Me:
-  Hi 👋 I'm Arshad, Pre final year B.Tech student in Computer Science, passionate about building innovative web solutions and also exploring the world of Machine Learning. Currently working on projects that blend creativity with real-world impact. I also have a growing interest in IoT and enjoy experimenting with connected technologies.
+# About Me:
+  Hi 👋 I'm Arshad, a final year B.Tech student in Computer Science, who loves to build innovative web solutions along with exploring the world of Aritificial Intelligence & Machine Learning. Currently working on projects that blend creativity with real-world impact. I also have a growing interest in IoT and enjoy experimenting with connected technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadm12/) 
@@ -13,60 +13,77 @@
 # 💻 Tech Stack:
 <div align="center">
 
-  <!-- GIF Icons Row 1 -->
-  <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="75"/>
-  <img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="75"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="75"/>
-  <img src="https://colaninfotech.com/wp-content/uploads/2021/09/expressjs.gif" height="75"/>
-  <br/>
-  <img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="75"/>
-  <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="75"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="75"/>
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="75"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="75"/>
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <br/><br/>
 
-  <!-- GIF Icons Row 2 -->
-  <img src="https://media2.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" height="75"/>
-  <img src="https://media1.giphy.com/media/C8Tij3iox3coBSqVWE/giphy.gif" height="75"/>
-  <br/>
-  <img src="https://media1.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="75"/>
-  <img src="https://media3.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" height="75"/>
+  <!-- Frameworks & Core Web Tech -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+  <br/><br/>
+
+  <!-- Artificial Intelligence & Machine Learning -->
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-00A4EF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <br/><br/>
+
+  <!-- Databases & Backend Services -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD"/>
+  <br/><br/>
+
+  <!-- Cloud, DevOps & CI/CD -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <br/><br/>
+
+  <!-- Build Tools & Development Environment -->
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  
 
 </div>
 
-<br/>
-
-<div align="center">
-
-  <!-- Tech Stack Badges -->
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"/>
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD"/>
-  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white"/>
-
-</div>
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=rshd123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=rshd123&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshd123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=rshd123&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<!-- Alternative Readme Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rshd123&theme=dark" />
+
 
 ### 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height=225 />
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" atl="gif" height=300>
+<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height=225 /> 
 
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=rshd123&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+<!-- ### 🔝 Top Contributed Repo -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rshd123&theme=react-dark" /> -->
 
 ![snake gif](https://github.com/rshd123/rshd123/blob/output/github-snake-dark.svg)
 
