@@ -4,13 +4,13 @@
 </p>
 
 # About Me:
-  Hi 👋 I'm Arshad, a final year B.Tech student in Computer Science, who loves to build innovative web solutions along with exploring the world of Aritificial Intelligence & Machine Learning. Currently working on projects that blend creativity with real-world impact. I also have a growing interest in IoT and enjoy experimenting with connected technologies.
+  Someone who loves to build innovative web solutions along with exploring the world of Aritificial Intelligence & Machine Learning. Currently working on projects that blend creativity with real-world impact. I also have a growing interest in IoT and enjoy experimenting with connected technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadm12/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshadm1512@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 <div align="center">
 
   <!-- Core Languages -->
@@ -73,7 +73,7 @@
 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <!-- Alternative Readme Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rshd123&theme=dark" />
@@ -85,7 +85,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height=225 /> 
 
 <!-- ### 🔝 Top Contributed Repo -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rshd123&theme=react-dark" /> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=rshd123&theme=onedark" alt="Trophies" /> -->
 
 ![snake gif](https://github.com/rshd123/rshd123/blob/output/github-snake-dark.svg)
 
